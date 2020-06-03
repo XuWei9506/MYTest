@@ -1,0 +1,9 @@
+﻿  Reading Qt configuration (D:\DevelopEnvironment\5.6.3\msvc2015_64\bin\qmake.exe)
+  moc ..\..\..\..\..\..\xuw-j@glodom.com\STUDY\QT_STUDY\CODE\HelloQt\HelloQt\subwidget.h
+  MyButton.cpp
+  subwidget.cpp
+  MyWidget.cpp
+  main.cpp
+  moc_MyWidget.cpp
+  moc_subwidget.cpp
+c1xx : fatal error C1083: 无法打开源文件: “..\..\xuw-j@glodom.com\STUDY\QT_STUDY\CODE\HelloQt\HelloQt\moc_subwidget.cpp”: No such file or directory
